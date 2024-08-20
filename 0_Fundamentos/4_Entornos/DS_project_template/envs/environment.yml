@@ -1,0 +1,21 @@
+# conda env create --file environment.yml
+# conda activate mi_entorno_virtual
+name: mi_entorno_virtual_ds
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fs
+  - jupyter
+  - jupyterlab
+  - pathlib
+  - pip
+  - pyprojroot
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn 
+
+
+    

@@ -12,7 +12,23 @@ Este repositorio está dirigido a las personas que quieran obtener algún tipo d
 
 ## Fundamentos computacionales
 
+- Entornos virtuales.
+
+- Fundamentos de Git y GitHub.
+
+- Introducción a Python.
+
 ## Matemáticas para el Machine Learning
+
+- Algebra Lineal.
+
+- Cálculo Diferencial.
+
+- Estadística Descriptiva.
+
+- Teoría de Probabilidad.
+
+- Estadística Inferencial.
 
 ## Preprocesamiento de datos
 
