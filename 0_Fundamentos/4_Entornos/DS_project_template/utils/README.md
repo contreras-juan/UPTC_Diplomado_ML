@@ -1,7 +1,3 @@
-# {{ cookiecutter.project_title }}
-
-By: {{cookiecutter.project_author_name}}
-
-{{ cookiecutter.project_description }}
-
 ## Utilities description
+
+Descripción de la carpeta de utilidades, especificando sus archivos, las funciones en cada script y el uso de cada script en cada notebook del proyecto.
